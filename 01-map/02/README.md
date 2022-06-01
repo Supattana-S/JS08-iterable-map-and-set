@@ -2,8 +2,7 @@
 
 ```js
 const arr = [
-  ['email', 'codeisfun@example.com'],
-  ['isActive', true]
+  ["email", "codeisfun@example.com"],
+  ["isActive", true],
 ];
-
 ```
